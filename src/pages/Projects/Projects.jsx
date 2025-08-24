@@ -22,8 +22,8 @@ const projects = [
     src: "tree.jpg",
     link: "https://i.postimg.cc/MH2qjpYn/image.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/MeetHacker04/portfolio",
+    liveLink: "https://profeshnalportfolio.vercel.app/",
   },
 ];
 
